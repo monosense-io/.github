@@ -1,6 +1,6 @@
-# Hi there, I'm monosense 👋
+# monosense.io 👋
 
-  **Backend Engineer • Full Stack Developer • DevOps Enthusiast**
+  **Backend • Full Stack • DevOps**
 
   Building enterprise-grade systems with clean architecture and infrastructure as code.
 
@@ -36,12 +36,12 @@
   ## 📊 GitHub Stats
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=monosense&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monosense&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" height="165"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=trosvald&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trosvlad&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" height="165"/>
   </p>
 
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=monosense&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=trosvald&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
   </p>
 
   ---
