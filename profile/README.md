@@ -41,7 +41,7 @@
 
   ---
 
-  ## 🔥 What I'm Working On
+  ## 🔥 What we Working On
 
   - 🏗️ **Synergy Flow** — Enterprise ITSM platform with Indonesian compliance (Spring Modulith + Next.js)
   - 🔐 Building secure, scalable backend systems with PostgreSQL RLS and Keycloak OIDC
